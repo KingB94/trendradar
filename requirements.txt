@@ -1,0 +1,7 @@
+# requirements.txt
+
+Flask
+pandas
+numpy
+plotly
+openpyxl
