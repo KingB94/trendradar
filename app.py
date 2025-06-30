@@ -11,25 +11,28 @@ import numpy as np
 import pandas as pd
 import json
 from flask import Flask, render_template, request, jsonify
+import os
 
-# --- DATENLADUNG UND -VERARBEITUNG (unverändert) ---
+# --- DATENLADUNG UND -VERARBEITUNG (mit relativen Pfaden) ---
 
-# WICHTIG: Passe diese Pfade an deine Umgebung an oder verwende relative Pfade.
-excel_path = r'C:\Users\gavagninm\OneDrive - HAWE Hydraulik SE\Dokumente\05_Foresight\03_Scanning\Newsletters\PowerBi_Analyses\Articles_collection_elab.xlsx'
-json_path = r'C:\Users\gavagninm\OneDrive - HAWE Hydraulik SE\Dokumente\05_Foresight\02_Trends\Trends_webpage\connections.json'
+# Annahme: Die Datendateien liegen im selben Ordner wie app.py
+excel_path = 'Articles_collection_elab.xlsx'
+json_path = 'connections.json'
 
-try:
-    df = pd.read_excel(excel_path, sheet_name='for_python', usecols="A:D", engine='openpyxl')
-    df_cleaned = df.dropna()
-
-    trends_horizons = {row[0]: (row[1], row[2]) for row in df_cleaned.itertuples(index=False, name=None)}
-    trend_summaries = {row[0]: row[3] for row in df_cleaned.itertuples(index=False, name=None)}
-
-    with open(json_path, 'r', encoding='utf-8') as f:
-        connections = json.load(f)
-except FileNotFoundError as e:
-    print(f"Fehler: Datei nicht gefunden. Bitte überprüfe die Pfade. {e}")
+# Überprüfen, ob die Dateien existieren, um verständliche Fehlermeldungen zu geben
+if not os.path.exists(excel_path) or not os.path.exists(json_path):
+    print(f"Fehler: Eine oder beide Datendateien nicht gefunden.")
+    print(f"Stelle sicher, dass '{excel_path}' und '{json_path}' im selben Verzeichnis wie app.py liegen.")
     exit()
+
+df = pd.read_excel(excel_path, sheet_name='for_python', usecols="A:D", engine='openpyxl')
+df_cleaned = df.dropna()
+
+trends_horizons = {row[0]: (row[1], row[2]) for row in df_cleaned.itertuples(index=False, name=None)}
+trend_summaries = {row[0]: row[3] for row in df_cleaned.itertuples(index=False, name=None)}
+
+with open(json_path, 'r', encoding='utf-8') as f:
+    connections = json.load(f)
 
 
 # --- KONSTANTEN UND HELFERFUNKTIONEN (unverändert) ---
@@ -51,7 +54,7 @@ def wrap_text(text, max_length=15):
     lines.append(line.strip())
     return "<br>".join(lines)
 
-# --- FUNKTION ZUM ERSTELLEN DER GRAFIK (leicht modifiziert) ---
+# --- FUNKTION ZUM ERSTELLEN DER GRAFIK (unverändert) ---
 
 def create_radar_figure(selected_trend=None):
     base_fig = go.Figure()
@@ -131,32 +134,21 @@ def create_radar_figure(selected_trend=None):
     return base_fig
 
 
-# --- FLASK ANWENDUNG ---
+# --- FLASK ANWENDUNG (unverändert) ---
 app = Flask(__name__)
 
-# Route für die Hauptseite
 @app.route('/')
 def index():
-    # Erstelle die initiale Grafik ohne ausgewählten Trend
     fig = create_radar_figure()
-    # Wandle die Grafik in JSON um, um sie im Template zu verwenden
     graph_json = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
     return render_template('index.html', graph_json=graph_json)
 
-# API-Route zur Aktualisierung der Grafik
 @app.route('/update_chart', methods=['POST'])
 def update_chart():
-    # Erhalte den Namen des angeklickten Trends aus der Anfrage
     data = request.get_json()
     clicked_trend = data.get('trend')
-    
-    # Erstelle eine neue Grafik, die den angeklickten Trend hervorhebt
     fig = create_radar_figure(selected_trend=clicked_trend)
-    
-    # Gib die neue Grafik als JSON zurück
     return jsonify(json.loads(json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)))
 
-
-# Server starten
 if __name__ == '__main__':
     app.run(debug=True)
