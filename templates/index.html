@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>HAWE Trends Radar</title>
+    <!-- Plotly.js Bibliothek laden -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <style>
+        body { font-family: sans-serif; }
+        .chart-container {
+            position: relative;
+            width: 90%;
+            max-width: 900px;
+            margin: auto;
+        }
+        #reset-btn {
+            position: absolute;
+            top: 70px;
+            left: 65px;
+            z-index: 1000;
+            cursor: pointer;
+            padding: 8px 12px;
+            border: 1px solid #ccc;
+            background-color: #f0f0f0;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="chart-container">
+        <!-- Der Container für die Plotly-Grafik -->
+        <div id="radar-chart"></div>
+        <!-- Reset-Button -->
+        <button id="reset-btn">Reset Selection</button>
+    </div>
+
+    <script>
+        // Diese Variable speichert den Zustand (den aktuell ausgewählten Trend)
+        let selectedTrend = null;
+
+        // Container-Elemente abrufen
+        const chartDiv = document.getElementById('radar-chart');
+        const resetButton = document.getElementById('reset-btn');
+
+        // Die initiale Grafik-JSON-Daten vom Flask-Template erhalten
+        // |tojson ist ein Jinja2-Filter, der das JSON sicher in JS einbettet
+        const initialGraphData = JSON.parse({{ graph_json|tojson }});
+
+        // Die initiale Grafik zeichnen
+        Plotly.newPlot(chartDiv, initialGraphData.data, initialGraphData.layout);
+
+        // Funktion, um die Grafik zu aktualisieren
+        function updateChart(trend) {
+            // Eine Anfrage an den Flask-API-Endpunkt senden
+            fetch('/update_chart', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ trend: trend })
+            })
+            .then(response => response.json())
+            .then(newGraphData => {
+                // Die Grafik mit den neuen Daten effizient aktualisieren
+                Plotly.react(chartDiv, newGraphData.data, newGraphData.layout);
+            });
+        }
+        
+        // Event Listener für Klicks auf die Grafik
+        chartDiv.on('plotly_click', function(data) {
+            // Nur auf Marker-Klicks reagieren
+            if (data.points.length > 0 && data.points[0].customdata) {
+                const clickedTrend = data.points[0].customdata[0];
+
+                // Wenn der gleiche Trend erneut geklickt wird, Auswahl zurücksetzen
+                if (clickedTrend === selectedTrend) {
+                    selectedTrend = null;
+                    // Die originale Grafik wiederherstellen
+                    Plotly.react(chartDiv, initialGraphData.data, initialGraphData.layout);
+                } else {
+                    // Andernfalls den neuen Trend auswählen und die Grafik aktualisieren
+                    selectedTrend = clickedTrend;
+                    updateChart(selectedTrend);
+                }
+            }
+        });
+
+        // Event Listener für den Reset-Button
+        resetButton.addEventListener('click', function() {
+            selectedTrend = null;
+            // Die originale Grafik wiederherstellen (ohne Serveranfrage)
+            Plotly.react(chartDiv, initialGraphData.data, initialGraphData.layout);
+        });
+
+    </script>
+
+</body>
+</html>
