@@ -1,0 +1,3092 @@
+[
+    {
+        "source": "Green Cities",
+        "target": "Green Cities",
+        "weight": 80
+    },
+    {
+        "source": "Green Cities",
+        "target": "Enhanced Emission Policy",
+        "weight": 71
+    },
+    {
+        "source": "Green Cities",
+        "target": "Sustainable Energy System",
+        "weight": 1
+    },
+    {
+        "source": "Green Cities",
+        "target": "Circular Economy",
+        "weight": 1
+    },
+    {
+        "source": "Green Cities",
+        "target": "Promoting Biodiversity",
+        "weight": 1
+    },
+    {
+        "source": "Green Cities",
+        "target": "Green & Connected Construction site",
+        "weight": 32
+    },
+    {
+        "source": "Green Cities",
+        "target": "Advanced Wind Power",
+        "weight": 2
+    },
+    {
+        "source": "Green Cities",
+        "target": "Smart Farming",
+        "weight": 2
+    },
+    {
+        "source": "Green Cities",
+        "target": "Autonomous Material Handling",
+        "weight": 2
+    },
+    {
+        "source": "Green Cities",
+        "target": "Future Municipal Services",
+        "weight": 5
+    },
+    {
+        "source": "Green Cities",
+        "target": "Future Wood & Forest Industry",
+        "weight": 2
+    },
+    {
+        "source": "Green Cities",
+        "target": "Sustainable Mining",
+        "weight": 4
+    },
+    {
+        "source": "Green Cities",
+        "target": "Advanced Robotics",
+        "weight": 1
+    },
+    {
+        "source": "Green Cities",
+        "target": "Additive Manufacturing Technologies",
+        "weight": 2
+    },
+    {
+        "source": "Green Cities",
+        "target": "Future Collaboration",
+        "weight": 1
+    },
+    {
+        "source": "Green Cities",
+        "target": "Advanced AI Capabilities",
+        "weight": 1
+    },
+    {
+        "source": "Green Cities",
+        "target": "Big Data Value Creation",
+        "weight": 1
+    },
+    {
+        "source": "Green Cities",
+        "target": "Intelligent Process Automation",
+        "weight": 1
+    },
+    {
+        "source": "Green Cities",
+        "target": "Digital Platforms & Marketplaces",
+        "weight": 2
+    },
+    {
+        "source": "Green Cities",
+        "target": "Geopolitics & Decoupling",
+        "weight": 1
+    },
+    {
+        "source": "Green Cities",
+        "target": "Green Energy System",
+        "weight": 1
+    },
+    {
+        "source": "Green Cities",
+        "target": "Future Agriculture",
+        "weight": 1
+    },
+    {
+        "source": "Green Cities",
+        "target": "Air & Space",
+        "weight": 2
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Green Cities",
+        "weight": 71
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Enhanced Emission Policy",
+        "weight": 602
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Sustainable Energy System",
+        "weight": 3
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Circular Economy",
+        "weight": 31
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Promoting Biodiversity",
+        "weight": 6
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Zero Emission Company Value",
+        "weight": 26
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Geo-Engineering & Clean Air",
+        "weight": 2
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Green & Connected Construction site",
+        "weight": 90
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Advanced Wind Power",
+        "weight": 3
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Smart Farming",
+        "weight": 29
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Autonomous Material Handling",
+        "weight": 35
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 1
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Future Municipal Services",
+        "weight": 17
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Future Wood & Forest Industry",
+        "weight": 10
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Sustainable Mining",
+        "weight": 120
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Advanced Robotics",
+        "weight": 2
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Sustainable Factory Buidling",
+        "weight": 1
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Additive Manufacturing Technologies",
+        "weight": 2
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Biotechnological Revolution",
+        "weight": 1
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Future Collaboration",
+        "weight": 15
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Skilled Workers Shortage",
+        "weight": 1
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Intensified Ethical Awareness",
+        "weight": 1
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Immersive Technologies",
+        "weight": 2
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Advanced AI Capabilities",
+        "weight": 2
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Distributed Ledger Applications",
+        "weight": 1
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Big Data Value Creation",
+        "weight": 8
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "New Data Management Strategies",
+        "weight": 1
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Intelligent Process Automation",
+        "weight": 4
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Digital Platforms & Marketplaces",
+        "weight": 5
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Service Business Models",
+        "weight": 1
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Geopolitics & Decoupling",
+        "weight": 8
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Overlap Markets",
+        "weight": 1
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Green Energy System",
+        "weight": 14
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Future Agriculture",
+        "weight": 3
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Sustainaible Maritime Applications",
+        "weight": 65
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Expanded Railway Mobility",
+        "weight": 2
+    },
+    {
+        "source": "Enhanced Emission Policy",
+        "target": "Air & Space",
+        "weight": 5
+    },
+    {
+        "source": "Sustainable Energy System",
+        "target": "Green Cities",
+        "weight": 1
+    },
+    {
+        "source": "Sustainable Energy System",
+        "target": "Enhanced Emission Policy",
+        "weight": 3
+    },
+    {
+        "source": "Sustainable Energy System",
+        "target": "Sustainable Energy System",
+        "weight": 35
+    },
+    {
+        "source": "Sustainable Energy System",
+        "target": "Advanced Wind Power",
+        "weight": 10
+    },
+    {
+        "source": "Sustainable Energy System",
+        "target": "Autonomous Material Handling",
+        "weight": 1
+    },
+    {
+        "source": "Sustainable Energy System",
+        "target": "Future Municipal Services",
+        "weight": 1
+    },
+    {
+        "source": "Sustainable Energy System",
+        "target": "Sustainable Mining",
+        "weight": 2
+    },
+    {
+        "source": "Sustainable Energy System",
+        "target": "Advanced Robotics",
+        "weight": 2
+    },
+    {
+        "source": "Sustainable Energy System",
+        "target": "Green Energy System",
+        "weight": 20
+    },
+    {
+        "source": "Sustainable Energy System",
+        "target": "Sustainaible Maritime Applications",
+        "weight": 3
+    },
+    {
+        "source": "Circular Economy",
+        "target": "Green Cities",
+        "weight": 1
+    },
+    {
+        "source": "Circular Economy",
+        "target": "Enhanced Emission Policy",
+        "weight": 31
+    },
+    {
+        "source": "Circular Economy",
+        "target": "Circular Economy",
+        "weight": 60
+    },
+    {
+        "source": "Circular Economy",
+        "target": "Promoting Biodiversity",
+        "weight": 1
+    },
+    {
+        "source": "Circular Economy",
+        "target": "Zero Emission Company Value",
+        "weight": 6
+    },
+    {
+        "source": "Circular Economy",
+        "target": "Geo-Engineering & Clean Air",
+        "weight": 1
+    },
+    {
+        "source": "Circular Economy",
+        "target": "Green & Connected Construction site",
+        "weight": 5
+    },
+    {
+        "source": "Circular Economy",
+        "target": "Advanced Wind Power",
+        "weight": 3
+    },
+    {
+        "source": "Circular Economy",
+        "target": "Smart Farming",
+        "weight": 1
+    },
+    {
+        "source": "Circular Economy",
+        "target": "Future Wood & Forest Industry",
+        "weight": 1
+    },
+    {
+        "source": "Circular Economy",
+        "target": "Sustainable Mining",
+        "weight": 3
+    },
+    {
+        "source": "Circular Economy",
+        "target": "Advanced Robotics",
+        "weight": 1
+    },
+    {
+        "source": "Circular Economy",
+        "target": "Sustainable Factory Buidling",
+        "weight": 1
+    },
+    {
+        "source": "Circular Economy",
+        "target": "Additive Manufacturing Technologies",
+        "weight": 2
+    },
+    {
+        "source": "Circular Economy",
+        "target": "Future Collaboration",
+        "weight": 1
+    },
+    {
+        "source": "Circular Economy",
+        "target": "Green Energy System",
+        "weight": 5
+    },
+    {
+        "source": "Promoting Biodiversity",
+        "target": "Green Cities",
+        "weight": 1
+    },
+    {
+        "source": "Promoting Biodiversity",
+        "target": "Enhanced Emission Policy",
+        "weight": 6
+    },
+    {
+        "source": "Promoting Biodiversity",
+        "target": "Circular Economy",
+        "weight": 1
+    },
+    {
+        "source": "Promoting Biodiversity",
+        "target": "Promoting Biodiversity",
+        "weight": 15
+    },
+    {
+        "source": "Promoting Biodiversity",
+        "target": "Zero Emission Company Value",
+        "weight": 1
+    },
+    {
+        "source": "Promoting Biodiversity",
+        "target": "Geo-Engineering & Clean Air",
+        "weight": 1
+    },
+    {
+        "source": "Promoting Biodiversity",
+        "target": "Green & Connected Construction site",
+        "weight": 3
+    },
+    {
+        "source": "Promoting Biodiversity",
+        "target": "Sustainable Mining",
+        "weight": 1
+    },
+    {
+        "source": "Promoting Biodiversity",
+        "target": "Advanced Robotics",
+        "weight": 1
+    },
+    {
+        "source": "Promoting Biodiversity",
+        "target": "Additive Manufacturing Technologies",
+        "weight": 1
+    },
+    {
+        "source": "Promoting Biodiversity",
+        "target": "Green Energy System",
+        "weight": 1
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Enhanced Emission Policy",
+        "weight": 26
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Circular Economy",
+        "weight": 6
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Promoting Biodiversity",
+        "weight": 1
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Zero Emission Company Value",
+        "weight": 33
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Geo-Engineering & Clean Air",
+        "weight": 1
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Green & Connected Construction site",
+        "weight": 2
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Advanced Wind Power",
+        "weight": 1
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Smart Farming",
+        "weight": 2
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Autonomous Material Handling",
+        "weight": 1
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Future Municipal Services",
+        "weight": 1
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Future Wood & Forest Industry",
+        "weight": 1
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Sustainable Mining",
+        "weight": 12
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Future Collaboration",
+        "weight": 5
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Big Data Value Creation",
+        "weight": 1
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Intelligent Process Automation",
+        "weight": 1
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Green Energy System",
+        "weight": 3
+    },
+    {
+        "source": "Zero Emission Company Value",
+        "target": "Sustainaible Maritime Applications",
+        "weight": 1
+    },
+    {
+        "source": "Geo-Engineering & Clean Air",
+        "target": "Enhanced Emission Policy",
+        "weight": 2
+    },
+    {
+        "source": "Geo-Engineering & Clean Air",
+        "target": "Circular Economy",
+        "weight": 1
+    },
+    {
+        "source": "Geo-Engineering & Clean Air",
+        "target": "Promoting Biodiversity",
+        "weight": 1
+    },
+    {
+        "source": "Geo-Engineering & Clean Air",
+        "target": "Zero Emission Company Value",
+        "weight": 1
+    },
+    {
+        "source": "Geo-Engineering & Clean Air",
+        "target": "Geo-Engineering & Clean Air",
+        "weight": 17
+    },
+    {
+        "source": "Geo-Engineering & Clean Air",
+        "target": "Smart Farming",
+        "weight": 1
+    },
+    {
+        "source": "Geo-Engineering & Clean Air",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 2
+    },
+    {
+        "source": "Geo-Engineering & Clean Air",
+        "target": "Sustainable Mining",
+        "weight": 1
+    },
+    {
+        "source": "Geo-Engineering & Clean Air",
+        "target": "Intensified Ethical Awareness",
+        "weight": 2
+    },
+    {
+        "source": "Geo-Engineering & Clean Air",
+        "target": "Green Energy System",
+        "weight": 12
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Green Cities",
+        "weight": 32
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Enhanced Emission Policy",
+        "weight": 90
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Circular Economy",
+        "weight": 5
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Promoting Biodiversity",
+        "weight": 3
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Zero Emission Company Value",
+        "weight": 2
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Green & Connected Construction site",
+        "weight": 241
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Smart Farming",
+        "weight": 23
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Autonomous Material Handling",
+        "weight": 17
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 2
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Future Municipal Services",
+        "weight": 18
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Future Wood & Forest Industry",
+        "weight": 14
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Sustainable Mining",
+        "weight": 38
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Advanced Healthcare Applications",
+        "weight": 1
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Advanced Robotics",
+        "weight": 2
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Additive Manufacturing Technologies",
+        "weight": 16
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Skilled Workers Shortage",
+        "weight": 1
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Immersive Technologies",
+        "weight": 3
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Advanced AI Capabilities",
+        "weight": 1
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Big Data Value Creation",
+        "weight": 2
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "New Data Management Strategies",
+        "weight": 2
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Intelligent Process Automation",
+        "weight": 2
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Digital Platforms & Marketplaces",
+        "weight": 1
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Service Business Models",
+        "weight": 1
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Geopolitics & Decoupling",
+        "weight": 2
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Green Energy System",
+        "weight": 1
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Sustainaible Maritime Applications",
+        "weight": 2
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Expanded Railway Mobility",
+        "weight": 1
+    },
+    {
+        "source": "Green & Connected Construction site",
+        "target": "Air & Space",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Wind Power",
+        "target": "Green Cities",
+        "weight": 2
+    },
+    {
+        "source": "Advanced Wind Power",
+        "target": "Enhanced Emission Policy",
+        "weight": 3
+    },
+    {
+        "source": "Advanced Wind Power",
+        "target": "Sustainable Energy System",
+        "weight": 10
+    },
+    {
+        "source": "Advanced Wind Power",
+        "target": "Circular Economy",
+        "weight": 3
+    },
+    {
+        "source": "Advanced Wind Power",
+        "target": "Zero Emission Company Value",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Wind Power",
+        "target": "Advanced Wind Power",
+        "weight": 102
+    },
+    {
+        "source": "Advanced Wind Power",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 3
+    },
+    {
+        "source": "Advanced Wind Power",
+        "target": "Sustainable Mining",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Wind Power",
+        "target": "Advanced AI Capabilities",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Wind Power",
+        "target": "Digital Platforms & Marketplaces",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Wind Power",
+        "target": "Green Energy System",
+        "weight": 28
+    },
+    {
+        "source": "Advanced Wind Power",
+        "target": "Sustainaible Maritime Applications",
+        "weight": 13
+    },
+    {
+        "source": "Advanced Wind Power",
+        "target": "Air & Space",
+        "weight": 1
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Green Cities",
+        "weight": 2
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Enhanced Emission Policy",
+        "weight": 29
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Circular Economy",
+        "weight": 1
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Zero Emission Company Value",
+        "weight": 2
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Geo-Engineering & Clean Air",
+        "weight": 1
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Green & Connected Construction site",
+        "weight": 23
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Smart Farming",
+        "weight": 101
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Autonomous Material Handling",
+        "weight": 8
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 2
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Future Municipal Services",
+        "weight": 15
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Future Wood & Forest Industry",
+        "weight": 14
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Sustainable Mining",
+        "weight": 15
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Advanced Healthcare Applications",
+        "weight": 1
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Advanced Robotics",
+        "weight": 2
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Future Collaboration",
+        "weight": 2
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Advanced AI Capabilities",
+        "weight": 4
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Big Data Value Creation",
+        "weight": 6
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Intelligent Process Automation",
+        "weight": 4
+    },
+    {
+        "source": "Smart Farming",
+        "target": "AI Usage Enablement",
+        "weight": 1
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Advanced Computational Hardware",
+        "weight": 2
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Digital Platforms & Marketplaces",
+        "weight": 1
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Future Agriculture",
+        "weight": 15
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Sustainaible Maritime Applications",
+        "weight": 2
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Expanded Railway Mobility",
+        "weight": 2
+    },
+    {
+        "source": "Smart Farming",
+        "target": "Air & Space",
+        "weight": 1
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Green Cities",
+        "weight": 2
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Enhanced Emission Policy",
+        "weight": 35
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Sustainable Energy System",
+        "weight": 1
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Zero Emission Company Value",
+        "weight": 1
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Green & Connected Construction site",
+        "weight": 17
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Smart Farming",
+        "weight": 8
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Autonomous Material Handling",
+        "weight": 118
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 2
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Future Municipal Services",
+        "weight": 7
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Future Wood & Forest Industry",
+        "weight": 3
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Sustainable Mining",
+        "weight": 6
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Advanced Healthcare Applications",
+        "weight": 1
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Advanced Robotics",
+        "weight": 11
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Intelligent Worker Assistant",
+        "weight": 4
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Advanced AI Capabilities",
+        "weight": 1
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Intelligent Process Automation",
+        "weight": 1
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "AI Usage Enablement",
+        "weight": 1
+    },
+    {
+        "source": "Autonomous Material Handling",
+        "target": "Expanded Railway Mobility",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Enhanced Emission Policy",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Geo-Engineering & Clean Air",
+        "weight": 2
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Green & Connected Construction site",
+        "weight": 2
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Advanced Wind Power",
+        "weight": 3
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Smart Farming",
+        "weight": 2
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Autonomous Material Handling",
+        "weight": 2
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 61
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Future Municipal Services",
+        "weight": 2
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Future Wood & Forest Industry",
+        "weight": 2
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Sustainable Mining",
+        "weight": 2
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Advanced Healthcare Applications",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Advanced Robotics",
+        "weight": 15
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Intelligent Worker Assistant",
+        "weight": 4
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Adaptive Shop Floor Design",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Additive Manufacturing Technologies",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Smart Factory Data Analytics",
+        "weight": 3
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Skilled Workers Shortage",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Advanced AI Capabilities",
+        "weight": 5
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Big Data Value Creation",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Intelligent Process Automation",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "AI Usage Enablement",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Digital Platforms & Marketplaces",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Green Energy System",
+        "weight": 2
+    },
+    {
+        "source": "Intelligent & Efficient Factory",
+        "target": "Air & Space",
+        "weight": 1
+    },
+    {
+        "source": "Future Municipal Services",
+        "target": "Green Cities",
+        "weight": 5
+    },
+    {
+        "source": "Future Municipal Services",
+        "target": "Enhanced Emission Policy",
+        "weight": 17
+    },
+    {
+        "source": "Future Municipal Services",
+        "target": "Sustainable Energy System",
+        "weight": 1
+    },
+    {
+        "source": "Future Municipal Services",
+        "target": "Zero Emission Company Value",
+        "weight": 1
+    },
+    {
+        "source": "Future Municipal Services",
+        "target": "Green & Connected Construction site",
+        "weight": 18
+    },
+    {
+        "source": "Future Municipal Services",
+        "target": "Smart Farming",
+        "weight": 15
+    },
+    {
+        "source": "Future Municipal Services",
+        "target": "Autonomous Material Handling",
+        "weight": 7
+    },
+    {
+        "source": "Future Municipal Services",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 2
+    },
+    {
+        "source": "Future Municipal Services",
+        "target": "Future Municipal Services",
+        "weight": 37
+    },
+    {
+        "source": "Future Municipal Services",
+        "target": "Future Wood & Forest Industry",
+        "weight": 14
+    },
+    {
+        "source": "Future Municipal Services",
+        "target": "Sustainable Mining",
+        "weight": 13
+    },
+    {
+        "source": "Future Municipal Services",
+        "target": "Advanced Healthcare Applications",
+        "weight": 1
+    },
+    {
+        "source": "Future Municipal Services",
+        "target": "Big Data Value Creation",
+        "weight": 1
+    },
+    {
+        "source": "Future Municipal Services",
+        "target": "Expanded Railway Mobility",
+        "weight": 1
+    },
+    {
+        "source": "Future Wood & Forest Industry",
+        "target": "Green Cities",
+        "weight": 2
+    },
+    {
+        "source": "Future Wood & Forest Industry",
+        "target": "Enhanced Emission Policy",
+        "weight": 10
+    },
+    {
+        "source": "Future Wood & Forest Industry",
+        "target": "Circular Economy",
+        "weight": 1
+    },
+    {
+        "source": "Future Wood & Forest Industry",
+        "target": "Zero Emission Company Value",
+        "weight": 1
+    },
+    {
+        "source": "Future Wood & Forest Industry",
+        "target": "Green & Connected Construction site",
+        "weight": 14
+    },
+    {
+        "source": "Future Wood & Forest Industry",
+        "target": "Smart Farming",
+        "weight": 14
+    },
+    {
+        "source": "Future Wood & Forest Industry",
+        "target": "Autonomous Material Handling",
+        "weight": 3
+    },
+    {
+        "source": "Future Wood & Forest Industry",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 2
+    },
+    {
+        "source": "Future Wood & Forest Industry",
+        "target": "Future Municipal Services",
+        "weight": 14
+    },
+    {
+        "source": "Future Wood & Forest Industry",
+        "target": "Future Wood & Forest Industry",
+        "weight": 45
+    },
+    {
+        "source": "Future Wood & Forest Industry",
+        "target": "Sustainable Mining",
+        "weight": 13
+    },
+    {
+        "source": "Future Wood & Forest Industry",
+        "target": "Advanced Healthcare Applications",
+        "weight": 1
+    },
+    {
+        "source": "Future Wood & Forest Industry",
+        "target": "Big Data Value Creation",
+        "weight": 1
+    },
+    {
+        "source": "Future Wood & Forest Industry",
+        "target": "Geopolitics & Decoupling",
+        "weight": 1
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Green Cities",
+        "weight": 4
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Enhanced Emission Policy",
+        "weight": 120
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Sustainable Energy System",
+        "weight": 2
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Circular Economy",
+        "weight": 3
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Promoting Biodiversity",
+        "weight": 1
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Zero Emission Company Value",
+        "weight": 12
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Geo-Engineering & Clean Air",
+        "weight": 1
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Green & Connected Construction site",
+        "weight": 38
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Advanced Wind Power",
+        "weight": 1
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Smart Farming",
+        "weight": 15
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Autonomous Material Handling",
+        "weight": 6
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 2
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Future Municipal Services",
+        "weight": 13
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Future Wood & Forest Industry",
+        "weight": 13
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Sustainable Mining",
+        "weight": 229
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Advanced Healthcare Applications",
+        "weight": 1
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Future Collaboration",
+        "weight": 11
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Immersive Technologies",
+        "weight": 2
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Advanced AI Capabilities",
+        "weight": 3
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Big Data Value Creation",
+        "weight": 13
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "New Data Management Strategies",
+        "weight": 5
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Intelligent Process Automation",
+        "weight": 7
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Service Business Models",
+        "weight": 2
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Green Energy System",
+        "weight": 1
+    },
+    {
+        "source": "Sustainable Mining",
+        "target": "Sustainaible Maritime Applications",
+        "weight": 2
+    },
+    {
+        "source": "Advanced Healthcare Applications",
+        "target": "Green & Connected Construction site",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Healthcare Applications",
+        "target": "Smart Farming",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Healthcare Applications",
+        "target": "Autonomous Material Handling",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Healthcare Applications",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Healthcare Applications",
+        "target": "Future Municipal Services",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Healthcare Applications",
+        "target": "Future Wood & Forest Industry",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Healthcare Applications",
+        "target": "Sustainable Mining",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Healthcare Applications",
+        "target": "Advanced Healthcare Applications",
+        "weight": 2
+    },
+    {
+        "source": "Advanced Healthcare Applications",
+        "target": "Advanced Robotics",
+        "weight": 1
+    },
+    {
+        "source": "Industrial Metaverse",
+        "target": "Industrial Metaverse",
+        "weight": 4
+    },
+    {
+        "source": "Industrial Metaverse",
+        "target": "Advanced Robotics",
+        "weight": 2
+    },
+    {
+        "source": "Industrial Metaverse",
+        "target": "Sustainable Factory Buidling",
+        "weight": 1
+    },
+    {
+        "source": "Industrial Metaverse",
+        "target": "Adaptive Shop Floor Design",
+        "weight": 1
+    },
+    {
+        "source": "Industrial Metaverse",
+        "target": "Smart Factory Data Analytics",
+        "weight": 1
+    },
+    {
+        "source": "Industrial Metaverse",
+        "target": "Smart & Resilient Supply Chain",
+        "weight": 2
+    },
+    {
+        "source": "Industrial Metaverse",
+        "target": "Immersive Technologies",
+        "weight": 1
+    },
+    {
+        "source": "Industrial Metaverse",
+        "target": "Advanced AI Capabilities",
+        "weight": 2
+    },
+    {
+        "source": "Industrial Metaverse",
+        "target": "Intelligent Process Automation",
+        "weight": 2
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Green Cities",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Enhanced Emission Policy",
+        "weight": 2
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Sustainable Energy System",
+        "weight": 2
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Circular Economy",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Promoting Biodiversity",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Green & Connected Construction site",
+        "weight": 2
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Smart Farming",
+        "weight": 2
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Autonomous Material Handling",
+        "weight": 11
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 15
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Advanced Healthcare Applications",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Industrial Metaverse",
+        "weight": 2
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Advanced Robotics",
+        "weight": 109
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Intelligent Worker Assistant",
+        "weight": 13
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Sustainable Factory Buidling",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Adaptive Shop Floor Design",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Smart Factory Data Analytics",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Smart & Resilient Supply Chain",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Future Collaboration",
+        "weight": 2
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Skilled Workers Shortage",
+        "weight": 2
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Immersive Technologies",
+        "weight": 3
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Advanced AI Capabilities",
+        "weight": 12
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "New Data Management Strategies",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Intelligent Process Automation",
+        "weight": 3
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "AI Usage Enablement",
+        "weight": 2
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Advanced Computational Hardware",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Geopolitics & Decoupling",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Robotics",
+        "target": "Future Agriculture",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent Worker Assistant",
+        "target": "Autonomous Material Handling",
+        "weight": 4
+    },
+    {
+        "source": "Intelligent Worker Assistant",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 4
+    },
+    {
+        "source": "Intelligent Worker Assistant",
+        "target": "Advanced Robotics",
+        "weight": 13
+    },
+    {
+        "source": "Intelligent Worker Assistant",
+        "target": "Intelligent Worker Assistant",
+        "weight": 20
+    },
+    {
+        "source": "Intelligent Worker Assistant",
+        "target": "Adaptive Shop Floor Design",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent Worker Assistant",
+        "target": "Smart Factory Data Analytics",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent Worker Assistant",
+        "target": "Skilled Workers Shortage",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent Worker Assistant",
+        "target": "Immersive Technologies",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent Worker Assistant",
+        "target": "Advanced AI Capabilities",
+        "weight": 7
+    },
+    {
+        "source": "Sustainable Factory Buidling",
+        "target": "Enhanced Emission Policy",
+        "weight": 1
+    },
+    {
+        "source": "Sustainable Factory Buidling",
+        "target": "Circular Economy",
+        "weight": 1
+    },
+    {
+        "source": "Sustainable Factory Buidling",
+        "target": "Industrial Metaverse",
+        "weight": 1
+    },
+    {
+        "source": "Sustainable Factory Buidling",
+        "target": "Advanced Robotics",
+        "weight": 1
+    },
+    {
+        "source": "Sustainable Factory Buidling",
+        "target": "Sustainable Factory Buidling",
+        "weight": 2
+    },
+    {
+        "source": "Sustainable Factory Buidling",
+        "target": "Adaptive Shop Floor Design",
+        "weight": 1
+    },
+    {
+        "source": "Sustainable Factory Buidling",
+        "target": "Intelligent Process Automation",
+        "weight": 1
+    },
+    {
+        "source": "Adaptive Shop Floor Design",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 1
+    },
+    {
+        "source": "Adaptive Shop Floor Design",
+        "target": "Industrial Metaverse",
+        "weight": 1
+    },
+    {
+        "source": "Adaptive Shop Floor Design",
+        "target": "Advanced Robotics",
+        "weight": 1
+    },
+    {
+        "source": "Adaptive Shop Floor Design",
+        "target": "Intelligent Worker Assistant",
+        "weight": 1
+    },
+    {
+        "source": "Adaptive Shop Floor Design",
+        "target": "Sustainable Factory Buidling",
+        "weight": 1
+    },
+    {
+        "source": "Adaptive Shop Floor Design",
+        "target": "Adaptive Shop Floor Design",
+        "weight": 3
+    },
+    {
+        "source": "Adaptive Shop Floor Design",
+        "target": "Smart Factory Data Analytics",
+        "weight": 1
+    },
+    {
+        "source": "Adaptive Shop Floor Design",
+        "target": "Skilled Workers Shortage",
+        "weight": 1
+    },
+    {
+        "source": "Adaptive Shop Floor Design",
+        "target": "Intelligent Process Automation",
+        "weight": 1
+    },
+    {
+        "source": "Additive Manufacturing Technologies",
+        "target": "Green Cities",
+        "weight": 2
+    },
+    {
+        "source": "Additive Manufacturing Technologies",
+        "target": "Enhanced Emission Policy",
+        "weight": 2
+    },
+    {
+        "source": "Additive Manufacturing Technologies",
+        "target": "Circular Economy",
+        "weight": 2
+    },
+    {
+        "source": "Additive Manufacturing Technologies",
+        "target": "Promoting Biodiversity",
+        "weight": 1
+    },
+    {
+        "source": "Additive Manufacturing Technologies",
+        "target": "Green & Connected Construction site",
+        "weight": 16
+    },
+    {
+        "source": "Additive Manufacturing Technologies",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 1
+    },
+    {
+        "source": "Additive Manufacturing Technologies",
+        "target": "Additive Manufacturing Technologies",
+        "weight": 32
+    },
+    {
+        "source": "Additive Manufacturing Technologies",
+        "target": "Biotechnological Revolution",
+        "weight": 1
+    },
+    {
+        "source": "Additive Manufacturing Technologies",
+        "target": "Sustainaible Maritime Applications",
+        "weight": 1
+    },
+    {
+        "source": "Biotechnological Revolution",
+        "target": "Enhanced Emission Policy",
+        "weight": 1
+    },
+    {
+        "source": "Biotechnological Revolution",
+        "target": "Additive Manufacturing Technologies",
+        "weight": 1
+    },
+    {
+        "source": "Biotechnological Revolution",
+        "target": "Biotechnological Revolution",
+        "weight": 2
+    },
+    {
+        "source": "Smart Factory Data Analytics",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 3
+    },
+    {
+        "source": "Smart Factory Data Analytics",
+        "target": "Industrial Metaverse",
+        "weight": 1
+    },
+    {
+        "source": "Smart Factory Data Analytics",
+        "target": "Advanced Robotics",
+        "weight": 1
+    },
+    {
+        "source": "Smart Factory Data Analytics",
+        "target": "Intelligent Worker Assistant",
+        "weight": 1
+    },
+    {
+        "source": "Smart Factory Data Analytics",
+        "target": "Adaptive Shop Floor Design",
+        "weight": 1
+    },
+    {
+        "source": "Smart Factory Data Analytics",
+        "target": "Smart Factory Data Analytics",
+        "weight": 10
+    },
+    {
+        "source": "Smart Factory Data Analytics",
+        "target": "Smart & Resilient Supply Chain",
+        "weight": 1
+    },
+    {
+        "source": "Smart Factory Data Analytics",
+        "target": "Skilled Workers Shortage",
+        "weight": 1
+    },
+    {
+        "source": "Smart Factory Data Analytics",
+        "target": "Advanced AI Capabilities",
+        "weight": 2
+    },
+    {
+        "source": "Smart Factory Data Analytics",
+        "target": "Big Data Value Creation",
+        "weight": 4
+    },
+    {
+        "source": "Smart Factory Data Analytics",
+        "target": "New Data Management Strategies",
+        "weight": 2
+    },
+    {
+        "source": "Smart Factory Data Analytics",
+        "target": "Intelligent Process Automation",
+        "weight": 2
+    },
+    {
+        "source": "Smart Factory Data Analytics",
+        "target": "AI Usage Enablement",
+        "weight": 1
+    },
+    {
+        "source": "Smart & Resilient Supply Chain",
+        "target": "Industrial Metaverse",
+        "weight": 2
+    },
+    {
+        "source": "Smart & Resilient Supply Chain",
+        "target": "Advanced Robotics",
+        "weight": 1
+    },
+    {
+        "source": "Smart & Resilient Supply Chain",
+        "target": "Smart Factory Data Analytics",
+        "weight": 1
+    },
+    {
+        "source": "Smart & Resilient Supply Chain",
+        "target": "Smart & Resilient Supply Chain",
+        "weight": 2
+    },
+    {
+        "source": "Smart & Resilient Supply Chain",
+        "target": "Advanced AI Capabilities",
+        "weight": 1
+    },
+    {
+        "source": "Smart & Resilient Supply Chain",
+        "target": "Intelligent Process Automation",
+        "weight": 1
+    },
+    {
+        "source": "Company Agility Tranfsormation",
+        "target": "Company Agility Tranfsormation",
+        "weight": 1
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "Green Cities",
+        "weight": 1
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "Enhanced Emission Policy",
+        "weight": 15
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "Circular Economy",
+        "weight": 1
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "Zero Emission Company Value",
+        "weight": 5
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "Smart Farming",
+        "weight": 2
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "Sustainable Mining",
+        "weight": 11
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "Advanced Robotics",
+        "weight": 2
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "Future Collaboration",
+        "weight": 26
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "Skilled Workers Shortage",
+        "weight": 1
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "Enforced Innovation Culture",
+        "weight": 1
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "Immersive Technologies",
+        "weight": 1
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "Big Data Value Creation",
+        "weight": 1
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "New Data Management Strategies",
+        "weight": 3
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "Intelligent Process Automation",
+        "weight": 1
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "Digital Platforms & Marketplaces",
+        "weight": 1
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "Service Business Models",
+        "weight": 1
+    },
+    {
+        "source": "Future Collaboration",
+        "target": "Geopolitics & Decoupling",
+        "weight": 1
+    },
+    {
+        "source": "Skilled Workers Shortage",
+        "target": "Enhanced Emission Policy",
+        "weight": 1
+    },
+    {
+        "source": "Skilled Workers Shortage",
+        "target": "Green & Connected Construction site",
+        "weight": 1
+    },
+    {
+        "source": "Skilled Workers Shortage",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 1
+    },
+    {
+        "source": "Skilled Workers Shortage",
+        "target": "Advanced Robotics",
+        "weight": 2
+    },
+    {
+        "source": "Skilled Workers Shortage",
+        "target": "Intelligent Worker Assistant",
+        "weight": 1
+    },
+    {
+        "source": "Skilled Workers Shortage",
+        "target": "Adaptive Shop Floor Design",
+        "weight": 1
+    },
+    {
+        "source": "Skilled Workers Shortage",
+        "target": "Smart Factory Data Analytics",
+        "weight": 1
+    },
+    {
+        "source": "Skilled Workers Shortage",
+        "target": "Future Collaboration",
+        "weight": 1
+    },
+    {
+        "source": "Skilled Workers Shortage",
+        "target": "Skilled Workers Shortage",
+        "weight": 8
+    },
+    {
+        "source": "Skilled Workers Shortage",
+        "target": "Enforced Innovation Culture",
+        "weight": 1
+    },
+    {
+        "source": "Enforced Innovation Culture",
+        "target": "Future Collaboration",
+        "weight": 1
+    },
+    {
+        "source": "Enforced Innovation Culture",
+        "target": "Skilled Workers Shortage",
+        "weight": 1
+    },
+    {
+        "source": "Enforced Innovation Culture",
+        "target": "Enforced Innovation Culture",
+        "weight": 2
+    },
+    {
+        "source": "Intensified Ethical Awareness",
+        "target": "Enhanced Emission Policy",
+        "weight": 1
+    },
+    {
+        "source": "Intensified Ethical Awareness",
+        "target": "Geo-Engineering & Clean Air",
+        "weight": 2
+    },
+    {
+        "source": "Intensified Ethical Awareness",
+        "target": "Intensified Ethical Awareness",
+        "weight": 2
+    },
+    {
+        "source": "Immersive Technologies",
+        "target": "Enhanced Emission Policy",
+        "weight": 2
+    },
+    {
+        "source": "Immersive Technologies",
+        "target": "Green & Connected Construction site",
+        "weight": 3
+    },
+    {
+        "source": "Immersive Technologies",
+        "target": "Sustainable Mining",
+        "weight": 2
+    },
+    {
+        "source": "Immersive Technologies",
+        "target": "Industrial Metaverse",
+        "weight": 1
+    },
+    {
+        "source": "Immersive Technologies",
+        "target": "Advanced Robotics",
+        "weight": 3
+    },
+    {
+        "source": "Immersive Technologies",
+        "target": "Intelligent Worker Assistant",
+        "weight": 1
+    },
+    {
+        "source": "Immersive Technologies",
+        "target": "Future Collaboration",
+        "weight": 1
+    },
+    {
+        "source": "Immersive Technologies",
+        "target": "Immersive Technologies",
+        "weight": 10
+    },
+    {
+        "source": "Immersive Technologies",
+        "target": "Advanced AI Capabilities",
+        "weight": 4
+    },
+    {
+        "source": "Immersive Technologies",
+        "target": "AI Usage Enablement",
+        "weight": 1
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Green Cities",
+        "weight": 1
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Enhanced Emission Policy",
+        "weight": 2
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Green & Connected Construction site",
+        "weight": 1
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Advanced Wind Power",
+        "weight": 1
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Smart Farming",
+        "weight": 4
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Autonomous Material Handling",
+        "weight": 1
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 5
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Sustainable Mining",
+        "weight": 3
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Industrial Metaverse",
+        "weight": 2
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Advanced Robotics",
+        "weight": 12
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Intelligent Worker Assistant",
+        "weight": 7
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Smart Factory Data Analytics",
+        "weight": 2
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Smart & Resilient Supply Chain",
+        "weight": 1
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Immersive Technologies",
+        "weight": 4
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Advanced AI Capabilities",
+        "weight": 39
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Big Data Value Creation",
+        "weight": 9
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "New Data Management Strategies",
+        "weight": 1
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Intelligent Process Automation",
+        "weight": 4
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "AI Usage Enablement",
+        "weight": 4
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Advanced Computational Hardware",
+        "weight": 1
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Future Agriculture",
+        "weight": 4
+    },
+    {
+        "source": "Advanced AI Capabilities",
+        "target": "Sustainaible Maritime Applications",
+        "weight": 1
+    },
+    {
+        "source": "Distributed Ledger Applications",
+        "target": "Enhanced Emission Policy",
+        "weight": 1
+    },
+    {
+        "source": "Distributed Ledger Applications",
+        "target": "Distributed Ledger Applications",
+        "weight": 1
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Green Cities",
+        "weight": 1
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Enhanced Emission Policy",
+        "weight": 8
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Zero Emission Company Value",
+        "weight": 1
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Green & Connected Construction site",
+        "weight": 2
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Smart Farming",
+        "weight": 6
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 1
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Future Municipal Services",
+        "weight": 1
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Future Wood & Forest Industry",
+        "weight": 1
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Sustainable Mining",
+        "weight": 13
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Smart Factory Data Analytics",
+        "weight": 4
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Future Collaboration",
+        "weight": 1
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Advanced AI Capabilities",
+        "weight": 9
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Big Data Value Creation",
+        "weight": 48
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "New Data Management Strategies",
+        "weight": 9
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Intelligent Process Automation",
+        "weight": 8
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "AI Usage Enablement",
+        "weight": 1
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Advanced Computational Hardware",
+        "weight": 2
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Digital Platforms & Marketplaces",
+        "weight": 1
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Service Business Models",
+        "weight": 5
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Future Agriculture",
+        "weight": 5
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Sustainaible Maritime Applications",
+        "weight": 1
+    },
+    {
+        "source": "Big Data Value Creation",
+        "target": "Air & Space",
+        "weight": 1
+    },
+    {
+        "source": "New Data Management Strategies",
+        "target": "Enhanced Emission Policy",
+        "weight": 1
+    },
+    {
+        "source": "New Data Management Strategies",
+        "target": "Green & Connected Construction site",
+        "weight": 2
+    },
+    {
+        "source": "New Data Management Strategies",
+        "target": "Sustainable Mining",
+        "weight": 5
+    },
+    {
+        "source": "New Data Management Strategies",
+        "target": "Advanced Robotics",
+        "weight": 1
+    },
+    {
+        "source": "New Data Management Strategies",
+        "target": "Smart Factory Data Analytics",
+        "weight": 2
+    },
+    {
+        "source": "New Data Management Strategies",
+        "target": "Future Collaboration",
+        "weight": 3
+    },
+    {
+        "source": "New Data Management Strategies",
+        "target": "Advanced AI Capabilities",
+        "weight": 1
+    },
+    {
+        "source": "New Data Management Strategies",
+        "target": "Big Data Value Creation",
+        "weight": 9
+    },
+    {
+        "source": "New Data Management Strategies",
+        "target": "New Data Management Strategies",
+        "weight": 15
+    },
+    {
+        "source": "New Data Management Strategies",
+        "target": "Intelligent Process Automation",
+        "weight": 4
+    },
+    {
+        "source": "New Data Management Strategies",
+        "target": "Service Business Models",
+        "weight": 2
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Green Cities",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Enhanced Emission Policy",
+        "weight": 4
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Zero Emission Company Value",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Green & Connected Construction site",
+        "weight": 2
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Smart Farming",
+        "weight": 4
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Autonomous Material Handling",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Sustainable Mining",
+        "weight": 7
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Industrial Metaverse",
+        "weight": 2
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Advanced Robotics",
+        "weight": 3
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Sustainable Factory Buidling",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Adaptive Shop Floor Design",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Smart Factory Data Analytics",
+        "weight": 2
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Smart & Resilient Supply Chain",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Future Collaboration",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Advanced AI Capabilities",
+        "weight": 4
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Big Data Value Creation",
+        "weight": 8
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "New Data Management Strategies",
+        "weight": 4
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Intelligent Process Automation",
+        "weight": 21
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "AI Usage Enablement",
+        "weight": 1
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Service Business Models",
+        "weight": 2
+    },
+    {
+        "source": "Intelligent Process Automation",
+        "target": "Future Agriculture",
+        "weight": 4
+    },
+    {
+        "source": "AI Usage Enablement",
+        "target": "Smart Farming",
+        "weight": 1
+    },
+    {
+        "source": "AI Usage Enablement",
+        "target": "Autonomous Material Handling",
+        "weight": 1
+    },
+    {
+        "source": "AI Usage Enablement",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 1
+    },
+    {
+        "source": "AI Usage Enablement",
+        "target": "Advanced Robotics",
+        "weight": 2
+    },
+    {
+        "source": "AI Usage Enablement",
+        "target": "Smart Factory Data Analytics",
+        "weight": 1
+    },
+    {
+        "source": "AI Usage Enablement",
+        "target": "Immersive Technologies",
+        "weight": 1
+    },
+    {
+        "source": "AI Usage Enablement",
+        "target": "Advanced AI Capabilities",
+        "weight": 4
+    },
+    {
+        "source": "AI Usage Enablement",
+        "target": "Big Data Value Creation",
+        "weight": 1
+    },
+    {
+        "source": "AI Usage Enablement",
+        "target": "Intelligent Process Automation",
+        "weight": 1
+    },
+    {
+        "source": "AI Usage Enablement",
+        "target": "AI Usage Enablement",
+        "weight": 6
+    },
+    {
+        "source": "AI Usage Enablement",
+        "target": "Advanced Computational Hardware",
+        "weight": 1
+    },
+    {
+        "source": "AI Usage Enablement",
+        "target": "Service Business Models",
+        "weight": 1
+    },
+    {
+        "source": "AI Usage Enablement",
+        "target": "Future Agriculture",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Computational Hardware",
+        "target": "Smart Farming",
+        "weight": 2
+    },
+    {
+        "source": "Advanced Computational Hardware",
+        "target": "Advanced Robotics",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Computational Hardware",
+        "target": "Advanced AI Capabilities",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Computational Hardware",
+        "target": "Big Data Value Creation",
+        "weight": 2
+    },
+    {
+        "source": "Advanced Computational Hardware",
+        "target": "AI Usage Enablement",
+        "weight": 1
+    },
+    {
+        "source": "Advanced Computational Hardware",
+        "target": "Advanced Computational Hardware",
+        "weight": 7
+    },
+    {
+        "source": "Advanced Computational Hardware",
+        "target": "Future Agriculture",
+        "weight": 2
+    },
+    {
+        "source": "Increased Cyberthreats",
+        "target": "Increased Cyberthreats",
+        "weight": 3
+    },
+    {
+        "source": "Digital Platforms & Marketplaces",
+        "target": "Green Cities",
+        "weight": 2
+    },
+    {
+        "source": "Digital Platforms & Marketplaces",
+        "target": "Enhanced Emission Policy",
+        "weight": 5
+    },
+    {
+        "source": "Digital Platforms & Marketplaces",
+        "target": "Green & Connected Construction site",
+        "weight": 1
+    },
+    {
+        "source": "Digital Platforms & Marketplaces",
+        "target": "Advanced Wind Power",
+        "weight": 1
+    },
+    {
+        "source": "Digital Platforms & Marketplaces",
+        "target": "Smart Farming",
+        "weight": 1
+    },
+    {
+        "source": "Digital Platforms & Marketplaces",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 1
+    },
+    {
+        "source": "Digital Platforms & Marketplaces",
+        "target": "Future Collaboration",
+        "weight": 1
+    },
+    {
+        "source": "Digital Platforms & Marketplaces",
+        "target": "Big Data Value Creation",
+        "weight": 1
+    },
+    {
+        "source": "Digital Platforms & Marketplaces",
+        "target": "Digital Platforms & Marketplaces",
+        "weight": 34
+    },
+    {
+        "source": "Digital Platforms & Marketplaces",
+        "target": "Sustainaible Maritime Applications",
+        "weight": 2
+    },
+    {
+        "source": "Digital Platforms & Marketplaces",
+        "target": "Expanded Railway Mobility",
+        "weight": 1
+    },
+    {
+        "source": "Digital Platforms & Marketplaces",
+        "target": "Air & Space",
+        "weight": 29
+    },
+    {
+        "source": "Service Business Models",
+        "target": "Enhanced Emission Policy",
+        "weight": 1
+    },
+    {
+        "source": "Service Business Models",
+        "target": "Green & Connected Construction site",
+        "weight": 1
+    },
+    {
+        "source": "Service Business Models",
+        "target": "Sustainable Mining",
+        "weight": 2
+    },
+    {
+        "source": "Service Business Models",
+        "target": "Future Collaboration",
+        "weight": 1
+    },
+    {
+        "source": "Service Business Models",
+        "target": "Big Data Value Creation",
+        "weight": 5
+    },
+    {
+        "source": "Service Business Models",
+        "target": "New Data Management Strategies",
+        "weight": 2
+    },
+    {
+        "source": "Service Business Models",
+        "target": "Intelligent Process Automation",
+        "weight": 2
+    },
+    {
+        "source": "Service Business Models",
+        "target": "AI Usage Enablement",
+        "weight": 1
+    },
+    {
+        "source": "Service Business Models",
+        "target": "Service Business Models",
+        "weight": 7
+    },
+    {
+        "source": "Geopolitics & Decoupling",
+        "target": "Green Cities",
+        "weight": 1
+    },
+    {
+        "source": "Geopolitics & Decoupling",
+        "target": "Enhanced Emission Policy",
+        "weight": 8
+    },
+    {
+        "source": "Geopolitics & Decoupling",
+        "target": "Green & Connected Construction site",
+        "weight": 2
+    },
+    {
+        "source": "Geopolitics & Decoupling",
+        "target": "Future Wood & Forest Industry",
+        "weight": 1
+    },
+    {
+        "source": "Geopolitics & Decoupling",
+        "target": "Advanced Robotics",
+        "weight": 1
+    },
+    {
+        "source": "Geopolitics & Decoupling",
+        "target": "Future Collaboration",
+        "weight": 1
+    },
+    {
+        "source": "Geopolitics & Decoupling",
+        "target": "Geopolitics & Decoupling",
+        "weight": 34
+    },
+    {
+        "source": "Overlap Markets",
+        "target": "Enhanced Emission Policy",
+        "weight": 1
+    },
+    {
+        "source": "Overlap Markets",
+        "target": "Overlap Markets",
+        "weight": 1
+    },
+    {
+        "source": "Overlap Markets",
+        "target": "Green Energy System",
+        "weight": 1
+    },
+    {
+        "source": "Green Energy System",
+        "target": "Green Cities",
+        "weight": 1
+    },
+    {
+        "source": "Green Energy System",
+        "target": "Enhanced Emission Policy",
+        "weight": 14
+    },
+    {
+        "source": "Green Energy System",
+        "target": "Sustainable Energy System",
+        "weight": 20
+    },
+    {
+        "source": "Green Energy System",
+        "target": "Circular Economy",
+        "weight": 5
+    },
+    {
+        "source": "Green Energy System",
+        "target": "Promoting Biodiversity",
+        "weight": 1
+    },
+    {
+        "source": "Green Energy System",
+        "target": "Zero Emission Company Value",
+        "weight": 3
+    },
+    {
+        "source": "Green Energy System",
+        "target": "Geo-Engineering & Clean Air",
+        "weight": 12
+    },
+    {
+        "source": "Green Energy System",
+        "target": "Green & Connected Construction site",
+        "weight": 1
+    },
+    {
+        "source": "Green Energy System",
+        "target": "Advanced Wind Power",
+        "weight": 28
+    },
+    {
+        "source": "Green Energy System",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 2
+    },
+    {
+        "source": "Green Energy System",
+        "target": "Sustainable Mining",
+        "weight": 1
+    },
+    {
+        "source": "Green Energy System",
+        "target": "Overlap Markets",
+        "weight": 1
+    },
+    {
+        "source": "Green Energy System",
+        "target": "Green Energy System",
+        "weight": 84
+    },
+    {
+        "source": "Green Energy System",
+        "target": "Sustainaible Maritime Applications",
+        "weight": 7
+    },
+    {
+        "source": "Future Agriculture",
+        "target": "Green Cities",
+        "weight": 1
+    },
+    {
+        "source": "Future Agriculture",
+        "target": "Enhanced Emission Policy",
+        "weight": 3
+    },
+    {
+        "source": "Future Agriculture",
+        "target": "Smart Farming",
+        "weight": 15
+    },
+    {
+        "source": "Future Agriculture",
+        "target": "Advanced Robotics",
+        "weight": 1
+    },
+    {
+        "source": "Future Agriculture",
+        "target": "Advanced AI Capabilities",
+        "weight": 4
+    },
+    {
+        "source": "Future Agriculture",
+        "target": "Big Data Value Creation",
+        "weight": 5
+    },
+    {
+        "source": "Future Agriculture",
+        "target": "Intelligent Process Automation",
+        "weight": 4
+    },
+    {
+        "source": "Future Agriculture",
+        "target": "AI Usage Enablement",
+        "weight": 1
+    },
+    {
+        "source": "Future Agriculture",
+        "target": "Advanced Computational Hardware",
+        "weight": 2
+    },
+    {
+        "source": "Future Agriculture",
+        "target": "Future Agriculture",
+        "weight": 15
+    },
+    {
+        "source": "Sustainaible Maritime Applications",
+        "target": "Enhanced Emission Policy",
+        "weight": 65
+    },
+    {
+        "source": "Sustainaible Maritime Applications",
+        "target": "Sustainable Energy System",
+        "weight": 3
+    },
+    {
+        "source": "Sustainaible Maritime Applications",
+        "target": "Zero Emission Company Value",
+        "weight": 1
+    },
+    {
+        "source": "Sustainaible Maritime Applications",
+        "target": "Green & Connected Construction site",
+        "weight": 2
+    },
+    {
+        "source": "Sustainaible Maritime Applications",
+        "target": "Advanced Wind Power",
+        "weight": 13
+    },
+    {
+        "source": "Sustainaible Maritime Applications",
+        "target": "Smart Farming",
+        "weight": 2
+    },
+    {
+        "source": "Sustainaible Maritime Applications",
+        "target": "Sustainable Mining",
+        "weight": 2
+    },
+    {
+        "source": "Sustainaible Maritime Applications",
+        "target": "Additive Manufacturing Technologies",
+        "weight": 1
+    },
+    {
+        "source": "Sustainaible Maritime Applications",
+        "target": "Advanced AI Capabilities",
+        "weight": 1
+    },
+    {
+        "source": "Sustainaible Maritime Applications",
+        "target": "Big Data Value Creation",
+        "weight": 1
+    },
+    {
+        "source": "Sustainaible Maritime Applications",
+        "target": "Digital Platforms & Marketplaces",
+        "weight": 2
+    },
+    {
+        "source": "Sustainaible Maritime Applications",
+        "target": "Green Energy System",
+        "weight": 7
+    },
+    {
+        "source": "Sustainaible Maritime Applications",
+        "target": "Sustainaible Maritime Applications",
+        "weight": 97
+    },
+    {
+        "source": "Sustainaible Maritime Applications",
+        "target": "Air & Space",
+        "weight": 2
+    },
+    {
+        "source": "Expanded Railway Mobility",
+        "target": "Enhanced Emission Policy",
+        "weight": 2
+    },
+    {
+        "source": "Expanded Railway Mobility",
+        "target": "Green & Connected Construction site",
+        "weight": 1
+    },
+    {
+        "source": "Expanded Railway Mobility",
+        "target": "Smart Farming",
+        "weight": 2
+    },
+    {
+        "source": "Expanded Railway Mobility",
+        "target": "Autonomous Material Handling",
+        "weight": 1
+    },
+    {
+        "source": "Expanded Railway Mobility",
+        "target": "Future Municipal Services",
+        "weight": 1
+    },
+    {
+        "source": "Expanded Railway Mobility",
+        "target": "Digital Platforms & Marketplaces",
+        "weight": 1
+    },
+    {
+        "source": "Expanded Railway Mobility",
+        "target": "Expanded Railway Mobility",
+        "weight": 6
+    },
+    {
+        "source": "Expanded Railway Mobility",
+        "target": "Air & Space",
+        "weight": 1
+    },
+    {
+        "source": "Air & Space",
+        "target": "Green Cities",
+        "weight": 2
+    },
+    {
+        "source": "Air & Space",
+        "target": "Enhanced Emission Policy",
+        "weight": 5
+    },
+    {
+        "source": "Air & Space",
+        "target": "Green & Connected Construction site",
+        "weight": 1
+    },
+    {
+        "source": "Air & Space",
+        "target": "Advanced Wind Power",
+        "weight": 1
+    },
+    {
+        "source": "Air & Space",
+        "target": "Smart Farming",
+        "weight": 1
+    },
+    {
+        "source": "Air & Space",
+        "target": "Intelligent & Efficient Factory",
+        "weight": 1
+    },
+    {
+        "source": "Air & Space",
+        "target": "Big Data Value Creation",
+        "weight": 1
+    },
+    {
+        "source": "Air & Space",
+        "target": "Digital Platforms & Marketplaces",
+        "weight": 29
+    },
+    {
+        "source": "Air & Space",
+        "target": "Sustainaible Maritime Applications",
+        "weight": 2
+    },
+    {
+        "source": "Air & Space",
+        "target": "Expanded Railway Mobility",
+        "weight": 1
+    },
+    {
+        "source": "Air & Space",
+        "target": "Air & Space",
+        "weight": 29
+    }
+]
